@@ -3,100 +3,70 @@
 
   <!-- Main pages -->
   <url>
-    <loc>https://www.eatonandco.co.uk/</loc>
-    <lastmod>2026-07-31</lastmod>
+    <loc>https://www.jbgaragedoorsolution.com/</loc>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.eatonandco.co.uk/pages/services.html</loc>
-    <lastmod>2026-07-31</lastmod>
+    <loc>https://www.jbgaragedoorsolution.com/pages/services.html</loc>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.eatonandco.co.uk/pages/about.html</loc>
-    <lastmod>2026-07-31</lastmod>
+    <loc>https://www.jbgaragedoorsolution.com/pages/about.html</loc>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.eatonandco.co.uk/pages/gallery.html</loc>
-    <lastmod>2026-07-31</lastmod>
+    <loc>https://www.jbgaragedoorsolution.com/pages/gallery.html</loc>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.eatonandco.co.uk/pages/reviews.html</loc>
-    <lastmod>2026-07-31</lastmod>
+    <loc>https://www.jbgaragedoorsolution.com/pages/reviews.html</loc>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.eatonandco.co.uk/pages/contact.html</loc>
-    <lastmod>2026-07-31</lastmod>
+    <loc>https://www.jbgaragedoorsolution.com/pages/contact.html</loc>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.eatonandco.co.uk/pages/privacy-policy.html</loc>
-    <lastmod>2026-07-31</lastmod>
+    <loc>https://www.jbgaragedoorsolution.com/pages/privacy-policy.html</loc>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
 
   <!-- Service pages -->
   <url>
-    <loc>https://www.eatonandco.co.uk/pages/services/loft-conversions.html</loc>
-    <lastmod>2026-07-31</lastmod>
+    <loc>https://www.jbgaragedoorsolution.com/pages/services/garage-door-sales-installation.html</loc>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.eatonandco.co.uk/pages/services/extensions.html</loc>
-    <lastmod>2026-07-31</lastmod>
+    <loc>https://www.jbgaragedoorsolution.com/pages/services/commercial-doors-gates-docks.html</loc>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.eatonandco.co.uk/pages/services/kitchen-refurbishment.html</loc>
-    <lastmod>2026-07-31</lastmod>
+    <loc>https://www.jbgaragedoorsolution.com/pages/services/garage-door-openers.html</loc>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.eatonandco.co.uk/pages/services/full-refurbishment.html</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.eatonandco.co.uk/pages/services/new-build.html</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.eatonandco.co.uk/pages/services/office-fit-out.html</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.eatonandco.co.uk/pages/services/restaurant-fit-out.html</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.eatonandco.co.uk/pages/services/drone-surveys.html</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.eatonandco.co.uk/pages/services/snagging-inspections.html</loc>
-    <lastmod>2026-07-31</lastmod>
+    <loc>https://www.jbgaragedoorsolution.com/pages/services/crashed-door-service.html</loc>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

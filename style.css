@@ -1,5 +1,5 @@
 /* ============================================================
-   Eaton & Co — Global Stylesheet
+   JB Garage Door Solution — Global Stylesheet
    ============================================================ */
 
 :root {
@@ -11,13 +11,13 @@
     --text:        var(--ink);
     --text-muted:  #6B7280;  /* brighter, cooler body text                */
     --border:      #EDEEF0;  /* lighter rules                             */
-    --gold:        #FFD633;  /* brighter, cleaner gold                    */
-    --gold-text:   #A8811A;  /* accessible gold for text on white         */
-    --gold-soft:   #FFF8E1;  /* brighter tint background                  */
+    --gold:        #F2661D;  /* brand orange                              */
+    --gold-text:   #C6501A;  /* accessible orange for text on white       */
+    --gold-soft:   #FDECE1;  /* light orange tint background              */
     --placeholder: #F1F2F4;  /* neutral fill behind unloaded imagery      */
 
     /* ---- One gradient system, used everywhere ------------------------ */
-    --grad-gold:    linear-gradient(135deg, var(--gold) 0%, #F5B700 100%);
+    --grad-gold:    linear-gradient(135deg, var(--gold) 0%, #D9530F 100%);
     --grad-ink:     linear-gradient(135deg, var(--ink) 0%, var(--ink-hover) 100%);
     --grad-overlay: linear-gradient(to top,
                         color-mix(in srgb, var(--ink) 90%, transparent) 0%,

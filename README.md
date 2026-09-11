@@ -1,6 +1,6 @@
 # Website
 
-Static marketing site for a construction company working across Essex and London.
+Static marketing site for JB Garage Door Solution, a garage door sales, installation and repair company serving Mesquite, New Mexico.
 
 > **Status: content conversion complete.** Every page now describes the new owner and trade. What
 > remains is real-world material: photography, a logo, price bands, testimonials, the enquiry-form
@@ -157,7 +157,7 @@ Done:
 
 - [x] Business name, owner name, phone, email across all pages and both components
 - [x] Domain, canonicals, `og:url`, sitemap, robots, JSON-LD `url`/`@id`
-- [x] Schema — `PostalAddress`/`geo` removed, `areaServed` = Essex + London, all blocks re-validated
+- [x] Schema — `areaServed` = Mesquite, NM, all blocks re-validated
 - [x] Geography in all copy, titles, meta and the contact-page area ticker
 - [x] All social markup removed — the site has no Facebook links anywhere
 - [x] Nine service pages renamed and repopulated from section 5 of the content doc
@@ -177,7 +177,7 @@ Outstanding — needs material from the client:
 - [ ] **Testimonials** — `pages/reviews.html` has none and is unlinked from the nav; decide whether
       to delete the page and its sitemap entry, or populate it.
 - [ ] `GAS_URL` on both form pages, plus the CSP note above.
-- [ ] Confirm the domain — `eatonandco.co.uk` is inferred from the email address, not verified.
+- [ ] Confirm the domain — `jbgaragedoorsolution.com` should be verified before launch.
 - [ ] Address and postcode for the footer, if the owner wants one published.
 - [ ] Palette — still the inherited black/bronze/green; the content doc specifies black/white.
 
