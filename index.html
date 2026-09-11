@@ -392,18 +392,22 @@
                     <div class="relative overflow-hidden min-h-[340px] sm:min-h-[420px] lg:min-h-[540px]" style="background:var(--ink);">
                         <iframe
                             title="JB Garage Door Solution, Mesquite NM - location"
-                            src="https://maps.google.com/maps?q=133%20La%20Fe%20Ave.%20Mesquite%20NM%2088048&t=m&z=14&output=embed"
-                            allowfullscreen
+                            src="https://maps.google.com/maps?q=133%20La%20Fe%20Ave.%20Mesquite%20NM%2088048&t=m&z=9&output=embed"
                             class="absolute inset-0 w-full h-full border-0"
-                            loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            style="pointer-events:none;"
+                            loading="lazy" referrerpolicy="no-referrer-when-downgrade" tabindex="-1" aria-hidden="true"></iframe>
 
-                        <!-- coverage radius indicator -->
+                        <!-- coverage radius indicator, fixed to the static map view above -->
                         <div class="coverage-ring" aria-hidden="true"></div>
 
-                        <div class="absolute bottom-0 inset-x-0 px-5 sm:px-7 py-5 text-center lg:text-left pointer-events-none"
+                        <a href="https://www.google.com/maps/place/133+La+Fe+Ave,+Mesquite,+NM+88048"
+                           target="_blank" rel="noopener noreferrer"
+                           class="absolute inset-0 z-10" aria-label="Open JB Garage Door Solution's location in Google Maps"></a>
+
+                        <div class="absolute bottom-0 inset-x-0 px-5 sm:px-7 py-5 text-center lg:text-left pointer-events-none z-20"
                              style="background:linear-gradient(to top, color-mix(in srgb, var(--ink) 92%, transparent), transparent);">
                             <p class="font-heading font-bold text-white text-xl">Where We Work</p>
-                            <p class="font-body text-white/75 text-sm mt-1">133 La Fe Ave, Mesquite, NM 88048, and the surrounding area.</p>
+                            <p class="font-body text-white/75 text-sm mt-1">Serving Mesquite, NM and roughly a 20-mile radius around it.</p>
                         </div>
                     </div>
 
